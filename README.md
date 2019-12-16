@@ -1,6 +1,8 @@
 # ManualTesting-OrangeHRM
 
-Manual Training Online explaining and applying <b>STLC</b> stages in a functional testing process for building tests of My Info submodule which will be used by end users in Orange HRM application. 
+![image](https://www.opensourcecms.com/wp-content/uploads/OrangeHRM-demo-login.png)
+
+Manual Training Online explaining and applying <b>STLC</b> stages in a functional testing process for building tests of <b> My Info </b> submodule which will be used by end users in Orange HRM application. 
 
 Using FRS (Functional Requirements Specifications) document, explaining Test Plan (as example), building functional tests, executing them and identifying/reporting bugs.
 
@@ -14,7 +16,7 @@ $ cd ManualTesting-OrangeHRM
 
 URL: https://opensource-demo.orangehrmlive.com
 
--	Human Recourse Application
+-	Human Resource Application
 
 -	Developed in MySQL, PHP and Apache HTTP Servers
 
@@ -42,9 +44,9 @@ Password: pavan@12345
 
 * <b>Test Scenarios:</b> Describes an end to end functionality to be tested
 
-* <b>Test cases:</b> How to test scenarios – steps to follow 
+* <b>Test cases:</b> How to test scenarios – steps to follow up
 
-* <b>Test Execution:</b> Execute test Cases registering extected results against actual results registering pass/fail
+* <b>Test Execution:</b> Execute test Cases registering expected results against actual results registering pass/fail
 
 * <b>Bug Report:</b> Identifying defects & reporting them to the developer accordingly
 
@@ -52,7 +54,7 @@ Password: pavan@12345
 
 * <b>Decision Table:</b> Technique used to test system behavior for different input combinations
 
-## Videos to attend the training
+## Videos related
 
 Tutorial 1:
 
