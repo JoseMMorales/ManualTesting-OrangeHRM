@@ -1,6 +1,6 @@
 # ManualTesting-OrangeHRM
 
-Manual Training Online explaining and applying <b>STLC</b> stages in a funtional testing process for building test of My Info submodule which will be used by end users in Orange HRM application. 
+Manual Training Online explaining and applying <b>STLC</b> stages in a functional testing process for building tests of My Info submodule which will be used by end users in Orange HRM application. 
 
 Using FRS (Functional Requirements Specifications) document, explaining Test Plan (as example), building functional tests, executing them and identifying/reporting bugs.
 
@@ -27,17 +27,18 @@ URL: https://opensource-demo.orangehrmlive.com
 
 ### Pre-requisite
 
-I need to login as Admin account then create ESS user account.
+You need to login as Admin account then create ESS user account.
 
 ### ESS user account (Data used)
 
 Username: pavan@12345
+
 Password: pavan@12345
 
 
-## Testing task:
+## Testing tasks:
 
-* <b>Version History:</b> Tab created to reflect history of test cases including comments, version and approval 
+* <b>Version History:</b> Tab reflecting test case main information and comments
 
 * <b>Test Scenarios:</b> Describes an end to end functionality to be tested
 
@@ -53,7 +54,11 @@ Password: pavan@12345
 
 ## Videos to attend the training
 
+Tutorial 1:
+
 https://www.youtube.com/watch?v=7KvTEW243rg
+
+Tutorial 2:
 
 https://www.youtube.com/watch?v=UjgnmvhUGYs&t=106s
 
