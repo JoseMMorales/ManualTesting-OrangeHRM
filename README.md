@@ -1,1 +1,59 @@
 # ManualTesting-OrangeHRM
+
+Manual Training Online explaining and applying <b>STLC</b> stages in a funtional testing process for building test of My Info submodule which will be used by end users in Orange HRM application. 
+
+Using FRS (Functional Requirements Specifications) document, explaining Test Plan (as example), building functional tests, executing them and identifying/reporting bugs.
+
+## Clone Project
+
+$ git clone https://github.com/JoseMMorales/ManualTesting-OrangeHRM.git
+
+$ cd ManualTesting-OrangeHRM
+
+## Application: Orange HRM
+
+URL: https://opensource-demo.orangehrmlive.com
+
+-	Human Recourse Application
+
+-	Developed in MySQL, PHP and Apache HTTP Servers
+
+-	Linux Environment
+
+### Two different modules:  
+
+- Admin Module (Just used by HR Team) 
+- ESS (Employee Self Service) Module used by individual employee 
+
+### Pre-requisite
+
+I need to login as Admin account then create ESS user account.
+
+### ESS user account (Data used)
+
+Username: pavan@12345
+Password: pavan@12345
+
+
+## Testing task:
+
+* <b>Version History:</b> Tab created to reflect history of test cases including comments, version and approval 
+
+* <b>Test Scenarios:</b> Describes an end to end functionality to be tested
+
+* <b>Test cases:</b> How to test scenarios – steps to follow 
+
+* <b>Test Execution:</b> Execute test Cases registering extected results against actual results registering pass/fail
+
+* <b>Bug Report:</b> Identifying defects & reporting them to the developer accordingly
+
+* <b>RTM (Requirement Traceability Matrix):</b> Capturing all equirements proposed by the client and requirement traceability in a single document.
+
+* <b>Decision Table:</b> Technique used to test system behavior for different input combinations
+
+## Videos to attend the training
+
+https://www.youtube.com/watch?v=7KvTEW243rg
+
+https://www.youtube.com/watch?v=UjgnmvhUGYs&t=106s
+
