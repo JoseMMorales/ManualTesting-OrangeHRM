@@ -42,7 +42,7 @@ Password: pavan@12345
 
 * <b>Version History:</b> Tab reflecting test case main information and comments
 
-* <b>Test Scenarios:</b> Describes an end to end functionality to be tested
+* <b>Test Scenarios:</b> Describes end to end functionality to be tested
 
 * <b>Test cases:</b> How to test scenarios – steps to follow up
 
@@ -50,7 +50,7 @@ Password: pavan@12345
 
 * <b>Bug Report:</b> Identifying defects & reporting them to the developer accordingly
 
-* <b>RTM (Requirement Traceability Matrix):</b> Capturing all equirements proposed by the client and requirement traceability in a single document.
+* <b>RTM (Requirement Traceability Matrix):</b> Capturing all requirements proposed by the client and requirement traceability in a single document
 
 * <b>Decision Table:</b> Technique used to test system behavior for different input combinations
 
