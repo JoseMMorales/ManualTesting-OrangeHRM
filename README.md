@@ -2,9 +2,9 @@
 
 ![image](https://www.opensourcecms.com/wp-content/uploads/OrangeHRM-demo-login.png)
 
-Manual Training Online explaining and applying <b>STLC</b> stages in a functional testing process for building tests of <b> My Info </b> submodule which will be used by end users in Orange HRM application. 
+This is a Manual Testing Training which explain and apply <b>STLC</b> stages in a functional testing process, Decision Table Techinque is been used to build part of test cases of <b> My Info </b> submodule which will be used by end users in Orange HRM application. 
 
-Using FRS (Functional Requirements Specifications) document, explaining Test Plan (as example), building functional tests, executing them and identifying/reporting bugs.
+Great good practise of how using FRS (Functional Requirements Specifications) document in terms of building test scenarios, explaining composition of the Test Plan (as example), creating funtional test cases, executing them and identifying/reporting bugs to be developer team.
 
 ## Clone Project
 
